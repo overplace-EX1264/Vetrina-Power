@@ -1,0 +1,14 @@
+dependencies: \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/Vetrina\ Power/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/Vetrina\ Power/Plugins/org.apache.cordova.statusbar/CDVStatusBar.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/CDVPlugin.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/CDVPluginResult.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/CDVAvailability.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/CDVAvailabilityDeprecated.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/CDVViewController.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/CDVWhitelist.h \
+  /Users/admin/Documents/siti_web_sorgente/vetrinaPower/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h

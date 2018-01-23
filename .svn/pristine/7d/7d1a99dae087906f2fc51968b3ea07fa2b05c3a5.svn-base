@@ -1,0 +1,66 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.ionic.keyboard": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "com.phonegap.plugin.mobile-accessibility": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "com.phonegap.plugins.PushPlugin": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-datepicker": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "nl.x-services.plugins.toast": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "org.apache.cordova.inappbrowser": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        },
+        "org.apache.cordova.statusbar": {
+            "PACKAGE_NAME": "com.telecom.vetrinapower"
+        }
+    },
+    "dependent_plugins": {}
+}
